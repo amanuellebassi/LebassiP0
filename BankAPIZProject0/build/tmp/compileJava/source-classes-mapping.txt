@@ -1,0 +1,28 @@
+dev/lebassi/daos/AccountDAO.java
+ dev.lebassi.daos.AccountDAO
+dev/lebassi/services/ClientServiceImpl.java
+ dev.lebassi.services.ClientServiceImpl
+dev/lebassi/utils/ConnectionUtil.java
+ dev.lebassi.utils.ConnectionUtil
+dev/lebassi/entities/Client.java
+ dev.lebassi.entities.Client
+dev/lebassi/daos/ClientDaoPostgressDb.java
+ dev.lebassi.daos.ClientDaoPostgressDb
+dev/lebassi/services/AccountService.java
+ dev.lebassi.services.AccountService
+dev/lebassi/controllers/ClientController.java
+ dev.lebassi.controllers.ClientController
+dev/lebassi/services/AccountServiceImpl.java
+ dev.lebassi.services.AccountServiceImpl
+dev/lebassi/entities/Account.java
+ dev.lebassi.entities.Account
+dev/lebassi/daos/ClientDAO.java
+ dev.lebassi.daos.ClientDAO
+dev/lebassi/services/ClientService.java
+ dev.lebassi.services.ClientService
+dev/lebassi/daos/AccountDaoPostgressDb.java
+ dev.lebassi.daos.AccountDaoPostgressDb
+dev/lebassi/app/App.java
+ dev.lebassi.app.App
+dev/lebassi/controllers/AccountController.java
+ dev.lebassi.controllers.AccountController

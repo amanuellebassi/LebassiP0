@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.lebassi.daotest.AccountDaoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-24T17:53:06" hostname="Amanuels-MacBook-Pro.local" time="5.224">
+  <properties/>
+  <testcase name="create_account()" classname="dev.lebassi.daotest.AccountDaoTest" time="0.804"/>
+  <testcase name="get_accounts_by_clientId()" classname="dev.lebassi.daotest.AccountDaoTest" time="2.056"/>
+  <testcase name="get_accounts_by_client_ids_given_minmax_queries_test()" classname="dev.lebassi.daotest.AccountDaoTest" time="0.356"/>
+  <testcase name="update_account()" classname="dev.lebassi.daotest.AccountDaoTest" time="1.66"/>
+  <testcase name="delete_account_by_id()" classname="dev.lebassi.daotest.AccountDaoTest" time="0.346"/>
+  <system-out><![CDATA[Initial timWerner object is Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+Initial timWerner account id is 1
+Updated timWerner object is Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+Updated timWerner account id is 1
+All accounts size is: 26
+Account{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+Account{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+Account{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+Account{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+Account{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+Account{accountType='Savings', accountId=1, accountBalance=38245.46, clientId=1}
+Account{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+Account{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+Account{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+Account{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+Account{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+Account{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+Account{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+Account{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+Account{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+Account{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+Account{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+Account{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+Account{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+Account{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+Account{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+Account{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+Account{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+Account{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+Account{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+[]
+Test Account: Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+Initial balance is Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+Updated account is Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,6 @@
+dev/lebassi/daotest/ClientDaoTest.java
+ dev.lebassi.daotest.ClientDaoTest
+dev/lebassi/servicetests/AccountServiceTests.java
+ dev.lebassi.servicetests.AccountServiceTests
+dev/lebassi/daotest/AccountDaoTest.java
+ dev.lebassi.daotest.AccountDaoTest

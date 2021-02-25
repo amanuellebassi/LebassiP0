@@ -1,0 +1,37 @@
+uInitial timWerner object is Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+"Initial timWerner account id is 1
+uUpdated timWerner object is Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+"Updated timWerner account id is 1
+All accounts size is: 26
+KAccount{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+RAccount{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+MAccount{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+KAccount{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+MAccount{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+QAccount{accountType='Savings', accountId=1, accountBalance=38245.46, clientId=1}
+RAccount{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+MAccount{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+MAccount{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+MAccount{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+RAccount{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+MAccount{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+RAccount{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+KAccount{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+MAccount{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+YAccount{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+RAccount{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+RAccount{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+RAccount{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+KAccount{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+KAccount{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+MAccount{accountType='401K', accountId=4, accountBalance=85400.0, clientId=1}
+KAccount{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+RAccount{accountType='Checking', accountId=2, accountBalance=12384.12, clientId=1}
+KAccount{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+KAccount{accountType='CD', accountId=3, accountBalance=85400.0, clientId=1}
+[]
+gTest Account: Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+YAccount{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+lInitial balance is Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+lUpdated account is Account{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
+YAccount{accountType='Savings Account', accountId=1, accountBalance=38245.46, clientId=1}
